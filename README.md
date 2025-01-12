@@ -8,3 +8,7 @@ Each activity of the quiz contains one question and four options, along with a 1
 
 Each time the player answers correctly, the score is incremented and sent to the next activity through Intents.putExtra() .
 The last activity displays the player's score and sends a notification thanking the player. It also stores the Name and Score of the player in a .txt file.
+
+A screenshot of a quiz page
+
+![Screenshot_20240527_102500](https://github.com/user-attachments/assets/b7b9a3cf-81c0-4f03-8f09-80da51e172b6)
