@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474898601931",
+    "project_id": "geo-quiz-948aa",
+    "storage_bucket": "geo-quiz-948aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474898601931:android:0e0f2828499e57abffc84e",
+        "android_client_info": {
+          "package_name": "com.example.geoquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV4WG0iiPkOabmhdnn06IyXIIuQDWBbFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
