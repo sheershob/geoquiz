@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
         b1 = findViewById(R.id.button);
         b2 = findViewById(R.id.button5);
-        btnGoogle = findViewById(R.id.button9);
+//        btnGoogle = findViewById(R.id.button9);
         e1 = findViewById(R.id.editTextTextEmailAddress);
         e2 = findViewById(R.id.editTextNumberPassword);
         b1.setOnClickListener(new View.OnClickListener() {      //LOGIN
